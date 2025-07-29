@@ -17366,12 +17366,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"swagger-ui-dist@npm:~5.21.0":
-  version: 5.21.0
-  resolution: "swagger-ui-dist@npm:5.21.0"
+"swagger-ui-dist@npm:~5.27.0":
+  version: 5.27.0
+  resolution: "swagger-ui-dist@npm:5.27.0"
   dependencies:
     "@scarf/scarf": =1.4.0
-  checksum: 7780be7b0f77a7be40d854d33117e7e4be77f63ac19859b0ef4243bc0dd6ba9af3b103beb8526911d6e09718f0ef5ea43854f5c7b61c5f1a7352730388a2fecf
+  checksum: f6b3e8cc56e426aa7ee4cf822598e364ca908762b50020393bc18f990ab6f8f68a2e94b1b980a0c7746e1745d6913495c920a40b4f7c8f2a3f421fbc5dcf405d
   languageName: node
   linkType: hard
 
@@ -18559,7 +18559,7 @@ __metadata:
     stylelint: ~16.19.1
     stylelint-config-standard: ~38.0.0
     stylelint-prettier: ~5.0.3
-    swagger-ui-dist: ~5.21.0
+    swagger-ui-dist: ~5.27.0
     text-encoder-lite: 2.0.0
     tracked-built-ins: ~3.4.0
     typescript: ~5.8.3
